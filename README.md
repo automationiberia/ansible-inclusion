@@ -69,3 +69,10 @@ If you reviewed someone else's collection, please specify it too.
   * If you have questions to maintainers, add `COMMENT: ` + your question.
 
 See the [complete example](https://github.com/ansible-collections/ansible-inclusion/discussions/24#discussioncomment-1485070).
+
+### Using AI tools for reviewing
+
+This repository contains the [AGENTS.md](AGENTS.md) file that reviewers and collection maintainers can use with AI tools for reviewing purposes.
+
+* Keep in mind that this is not replacing manual review.
+* Never rely on what AI reports without carefully checking the collection source code, Review checklist and Collection requirements.
